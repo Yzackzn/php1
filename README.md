@@ -1,1 +1,5 @@
-# php1
+<?
+
+echo "Olá mundo";
+
+?>
